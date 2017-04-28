@@ -3,12 +3,12 @@
 
   <groupId>net.rcarz</groupId>
   <artifactId>jira-client</artifactId>
-  <version>0.6-SNAPSHOT</version>
+  <version>0.6-SNAPSHOT-eharman</version>
   <packaging>jar</packaging>
 
   <name>jira-client</name>
-  <description>A simple JIRA REST client</description>
-  <url>https://github.com/rcarz/jira-client</url>
+  <description>A simple JIRA REST client (eharman fork)</description>
+  <url>https://github.com/edward3h/jira-client</url>
 
   <licenses>
     <license>
@@ -28,6 +28,11 @@
       <id>rcarz</id>
       <name>Bob Carroll</name>
       <email>bob.carroll@alum.rit.edu</email>
+    </developer>
+    <developer>
+      <id>edward3h</id>
+      <name>Edward Harman</name>
+      <email>eharman@tripadvisor.com</email>
     </developer>
   </developers>
 
